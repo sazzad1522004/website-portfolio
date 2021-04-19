@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 h1{
@@ -6,4 +7,61 @@ h1{
 }
 .sazzad{
     color: orange;
+}
+.re{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.re img{
+    width: 100%;
+}
+ #img{
+    margin-top: -45px
+ }
+ #po{
+     margin-top: 85px;
+ }
+.bg{
+    background-image: url(image/bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #505aba, #8fa6ef);
+    font-weight: 700;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+.link2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #505aba, #8fa6ef);
+    font-weight: 700;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.bg2{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 15%;
+}
+.pk{
+    box-shadow: 10px 10px 40px rgb(200, 200, 200);
+    border-left: 5px gray;
+    border-radius: 10px;
+    height: 80%;
+    padding-right: 10px;
+    font-size: 15px;
+}
+.last{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
 }
